@@ -1,4 +1,4 @@
-This repo contains files that are part of the post at xeladu.medium.com.
+This repo contains files that are part of the post [How to navigate between pages in your Flutter application](https://levelup.gitconnected.com/how-to-navigate-between-pages-in-your-flutter-application-ed54558dbae4).
 
 # Content
 
